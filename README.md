@@ -1,6 +1,6 @@
 # network-file-shares-and-permissions
 
-<p><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sailpoint.com%2Fwp-content%2Fuploads%2Fidentity-for%2Fmicrosoftad%2Fmicrosoftad-logo.svg&imgrefurl=https%3A%2F%2Fwww.sailpoint.com%2Fintegrations%2Fmicrosoft-ad%2F&tbnid=APcmGgmSlVS7KM&vet=12ahUKEwjvw-7M85r8AhUGrXIEHSH6DuIQMygAegUIARC2AQ..i&docid=pBYdhNX928i2pM&w=800&h=450&q=activedirectory&ved=2ahUKEwjvw-7M85r8AhUGrXIEHSH6DuIQMygAegUIARC2AQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img src="https://jumpcloud.com/wp-content/uploads/2016/07/AD1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
 
 <h2>Operating Systems Used </h2>
