@@ -151,10 +151,12 @@ On DC-1 virtual machine, add the user to the "ACCOUNTANTS" -->Click on _SECURITY
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OAjipjh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the Client-1 virtual machine, click on Start-->click on the user-->click on Sign out to log off the virtual machine. 
+
+You will need to log off and on for the changes to take effect.
 </p>
 <br />
 
