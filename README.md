@@ -161,10 +161,12 @@ You will need to log off and on for the changes to take effect.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ntWTGef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into your Client-1 virtual machine with your user credentials-->Open Windows File Explorer-->Type\\DC-1 in the file directory bar-->Click "accounting"-->Open the test file.  
+
+*If everything was done correctly, the file should open, and you should be able to edit the document and save it in the network folder.
 </p>
 <br />
 
