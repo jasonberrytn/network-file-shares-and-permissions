@@ -140,10 +140,13 @@ An error message shows no access.  The current user does not have access to the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3KjDe9g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/2vTnxyv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On DC-1 virtual machine, add the user to the "ACCOUNTANTS" -->Click on _SECURITY_GROUPS-->Right click "ACCOUNTANTS"-->Click Properties-->Click on Members tab-->Click Add...-->Type the name of the user names in the object box-->Click Find Names-->When the user has been found in your directory, click Ok.
 </p>
 <br />
 
