@@ -1,7 +1,7 @@
 # network-file-shares-and-permissions
 
-<p><img src="https://jumpcloud.com/wp-content/uploads/2016/07/AD1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
+<p aligh="center"><img src="https://jumpcloud.com/wp-content/uploads/2016/07/AD1.png" height="40" width="40" alt="Disk Sanitization Steps"/>
+</p>
 
 <h2>Operating Systems Used </h2>
 
