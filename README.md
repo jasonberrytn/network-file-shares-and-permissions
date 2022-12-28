@@ -92,7 +92,7 @@ Once your file is created, type a sample text, go to File-->Save As-->Name your 
 </p>
 <br />
 
-<h2>Attempt to access file shares as a normal user</h2>
+<h3>Attempt to access file shares as a normal user</h3>
 <p>
 <img src="https://i.imgur.com/E5yyzi2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
