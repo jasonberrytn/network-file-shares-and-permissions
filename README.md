@@ -36,7 +36,7 @@ In this tutorial, we will share out resources over the network by creating file 
 <img src="https://i.imgur.com/ulODls5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create 2 instances of your remote desktop and login you domain controller as an admin and your client PC as one of the users.
+Create 2 instances of your remote desktop and log into the domain controller as an admin and your client PC as one of the users.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Create 2 instances of your remote desktop and login you domain controller as an 
 <img src="https://i.imgur.com/802hsrZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From your domain controller click on the Windows Explorer icon on your taskbar-->This PC-->Click on your C: drive to open its contents.
+From your domain controller click on the Windows Explorer icon on your taskbar-->This PC-->Click on your C:\ drive to open its contents.
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Open each folder and create a text document that we can test for access when we 
 <img src="https://i.imgur.com/L2W3COP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once your file is created, type a sample text, go to File>Save As-->Name your file-->Click Ok.
+Once your file is created, type a sample text, go to File-->Save As-->Name your file-->Click Ok.
 </p>
 <br />
 
