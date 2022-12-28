@@ -11,6 +11,12 @@ In this tutorial, we will share out resources over the network by creating file 
 
 <h2>Enviornments and Technologies Used</h2>
 
+- Microsoft Azure Virtual Machines
+- Remote Desktop
+- Active Directory Users and Computers
+- Network Security Group
+- Organization Units
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
