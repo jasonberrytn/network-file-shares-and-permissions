@@ -117,7 +117,7 @@ Open the no-access folder.  Upon clicking you will get a network error stating t
 </p>
 <br />
 
-<h2>Create an "ACCOUNTANTS" Security Group, assign permissions, and test access</h2>
+<h3>Create an "ACCOUNTANTS" Security Group, assign permissions, and test access</h3>
 
 <p>
 <img src="https://i.imgur.com/o7wJeeF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
