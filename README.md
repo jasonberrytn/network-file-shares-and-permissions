@@ -4,6 +4,8 @@
 <img src="https://jumpcloud.com/wp-content/uploads/2016/07/AD1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h2>Enviornments and Technologies Used</h2>
+
 <h1>Network File Shares and Permissions</h1>
 In this tutorial, we will share out resources over the network by creating file shares to allow, read, writ, or deny access to individual users and groups. <br />
 
